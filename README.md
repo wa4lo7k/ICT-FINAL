@@ -31,26 +31,12 @@ Description: [Brief description of the project]
 
 ...
 
-Experience
-Company Name 1
-Position: [Your position]
-Duration: [Date range]
-
-Description: [Brief description of your role and responsibilities]
-
-Company Name 2
-Position: [Your position]
-Duration: [Date range]
-
-Description: [Brief description of your role and responsibilities]
-
-...
 
 Education
 University Name
 Degree: BACHELOR OF SCIENCE IN COMPUTER SCIENCE
 Major: Computer science
-Graduation Year: N/A
+Graduation Year: 2027
 
 High School Name
 Graduation Year: BSCS
@@ -58,12 +44,9 @@ Graduation Year: BSCS
 Contact
 Feel free to reach out to me! You can contact me via:
 
-Email: [Your email]
-LinkedIn: [Your LinkedIn profile link]
-GitHub: [Your GitHub profile link]
-Twitter: [Your Twitter handle]
+Email: wa4lo7k@proton.me
+GitHub: [https://github.com/wa4lo7k]
 I'm open to collaborations, job opportunities, and connecting with like-minded individuals. Let's create something amazing together!
 
 Thank you for visiting my portfolio website.
-
-[Your Full Name]
+YAD E ALI
